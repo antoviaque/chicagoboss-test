@@ -44,7 +44,9 @@ And add the path to the Chicago Boss directory in your configuration file:
 
 Also create a directory to contain the server logs:
 
+```
 $ mkdir log
+```
 
 For more details about Chicago Boss & its configuration, see the [Chicago Boss tutorial](http://evanmiller.org/chicago-boss-tutorial.pdf).
 
@@ -64,5 +66,5 @@ $ ./init.sh start
 
 ## Website
 
-Then point your browser to http://localhost:8001/
+Then point your browser to [http://localhost:8001/](http://localhost:8001/)
 
