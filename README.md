@@ -21,7 +21,7 @@ $ tar xvzf ChicagoBoss-0.8.5.tar.gz
 
 ```
 $ git clone git@github.com:antoviaque/language_core.git
-# cd language_core
+$ cd language_core
 ```
 
 # Configuration
