@@ -3,6 +3,6 @@
         {vsn, "0.01a"},
         {modules, []},
         {registered, []},
-        {applications, [kernel, stdlib, crypto]},
+        {applications, [kernel, stdlib, crypto, inets, public_key, ssl]},
         {env, []}
     ]}.
